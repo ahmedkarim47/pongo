@@ -1,6 +1,0 @@
-Open the file called "Pongo"
-Then, click on "Pongo.sln" to view the code
-
-OR
-
-Click on 'Scripts' in this folder
