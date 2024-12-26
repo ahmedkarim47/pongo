@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MP Pong.unity
+    guid: 2406fe0c3636a8b4abf4cbf8304aeafa
+  - enabled: 1
+    path: Assets/Scenes/Game Over P1.unity
+    guid: 9691ff11a7012aa4c96950f22b2c8d3e
+  - enabled: 1
+    path: Assets/Scenes/Audio.unity
+    guid: b0583fcd9a2d5d846824708c8fb2302b
+  - enabled: 1
+    path: Assets/Scenes/SP Pong.unity
+    guid: eb27a3377c879614fb320965acb29fc1
+  - enabled: 1
+    path: Assets/Scenes/Game Mode.unity
+    guid: d81b749b5bac506498b3b0d7ee2da0a1
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 2b821efadb9cc7b488a6bd6d6c02d872
+  - enabled: 1
+    path: Assets/Scenes/Game Over P2.unity
+    guid: d7c3156047c871f4d80147541fca6b4d
+  m_configObjects: {}
